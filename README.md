@@ -1,3 +1,3 @@
-# A comparative study of perceptual quality metrics for audio-driven talking head videos
+A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos
 
 
