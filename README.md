@@ -12,7 +12,5 @@ Download large files from [**Google drive**](https://drive.google.com/file/d/11I
 
 python compute_all_metircs.py # For BIQA, lips LMD, SparseSync, and ViSiL metrics.
 
-# For VQA metric, refer to 
-
-[**Li22**](https://github.com/zwx8981/TCSVT-2022-BVQA)
+For VQA metric, refer to [**Li22**](https://github.com/zwx8981/TCSVT-2022-BVQA)
 
